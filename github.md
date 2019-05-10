@@ -46,11 +46,3 @@ git clone and then paste link
 git add –A
 git commit –m “_____”and place a comment in the quotes.
 git push
-
-
-
-
-# Usefull sites to visit
-visualgo.net this site is great for algorithms
-geeksforgeeks.org very computer sciency...but good for algorithms also has some useful intervew prep tools
-codingheroes

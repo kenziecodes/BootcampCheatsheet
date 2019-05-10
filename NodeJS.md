@@ -36,12 +36,12 @@ yoou need to use process.argv[]
 
 
 
-downloading Axios
+## downloading Axios
 npm init-y
 npm install axiois
 touch app.js
 code .
-in the app.js
+inside app.js
 ```
 const axios = require("axios");
 let artist = process.argv[2];
