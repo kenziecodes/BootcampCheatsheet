@@ -46,3 +46,5 @@ git clone and then paste link
 git add –A
 git commit –m “_____”and place a comment in the quotes.
 git push
+
+# Review concepts later
